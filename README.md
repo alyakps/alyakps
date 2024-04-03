@@ -3,10 +3,10 @@
 *I'm third year Informatics Engineering/Computer Science Student at Sepuluh Nopember Institute of Technology 🏛️!*
 
 <div align=justify>
-
+As a third-year undergraduate, I've developed extensive knowledge in information technology, software development, and data processing. Engaging in hands on projects enhanced my understanding and fostered a problem solving mindset. Combined with strong analytical abilities, I'm prepared to contribute effectively to dynamic teams. Eager to utilize my skills in a collaborative, goal-oriented environment, I'm confident in my ability to proactively contribute to team success.
 
 ## 👱🏻‍♂️ Talking about Personal Stuff's :
-- 🛠 &nbsp; I’m currently studying about PHP, JSP, JavaScript Framework, .NET, Laravel, CG (Computer Graphics), Cloud.
+- 🛠 &nbsp; I’m currently studying about PHP, JSP, JavaScript Framework, .NET
 - 🚀 &nbsp; I’m currently learning Mobile Development field 🌐.
 - 📫 &nbsp; How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/aalyaputri) or **Gmail** : aps.alyaputrisalma@gmail.com
 
@@ -40,8 +40,6 @@
 ## 🤝 Connect with me :
 
 <a href="https://www.linkedin.com/in/alyaputrisalma/"><img align="left" src="https://user-images.githubusercontent.com/91828276/209475797-23ec9742-321e-41cb-b067-483fc982ffa5.svg" alt="Rafi | LinkedIn" width="45px" style="margin-right: 10px;" /></a> 
-<a href="https://www.instagram.com/aalyaputri/"><img align="left" src="https://user-images.githubusercontent.com/91828276/209475747-11a55c3c-db08-4524-9a3b-59afc4d044e4.svg" alt="Rafi | Instagram" width="45px" style="margin-right: 10px;" /></a>
-<a href="https://line.me/ti/p/~aalyak"><img align="left" src="https://user-images.githubusercontent.com/91828276/209476147-82d9b782-a284-4899-a0c9-a5bf07a68458.svg" alt="Rafi | Line" width="45px" style="margin-right: 10px;" /></a>
 </br>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me on my social media!

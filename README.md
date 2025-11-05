@@ -1,31 +1,3 @@
-## Hey 👋, I'm Alya Putri Salma!
-  
-*I'm third year Informatics Engineering/Computer Science Student at Sepuluh Nopember Institute of Technology 🏛️!*
-
-<div align=justify>
-As a third-year undergraduate, I've developed extensive knowledge in information technology, software development, and data processing. Engaging in hands on projects enhanced my understanding and fostered a problem solving mindset. Combined with strong analytical abilities, I'm prepared to contribute effectively to dynamic teams. Eager to utilize my skills in a collaborative, goal-oriented environment, I'm confident in my ability to proactively contribute to team success.
-
-## 👱🏻‍♂️ Talking about Personal Stuff's :
-- 🛠 &nbsp; I’m currently studying about PHP, JSP, JavaScript Framework, .NET
-- 🚀 &nbsp; I’m currently learning Mobile Development field 🌐.
-- 📫 &nbsp; How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/aalyaputri) or **Gmail** : aps.alyaputrisalma@gmail.com
-
-## 🔨 Tech Stack's
-
-<h4><i>Language :</i></h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,r" alt="skills rafi"/>
-  </a>
-</p>
-
-<h4><i>Tools/Framework :</i></h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,docker,jest,linux,nodejs,matlab,powershell" alt="tools rafi"/>
-  </a>
-</p>
-
 ## ⚡ GitHub Stats
 
 | [![Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=alyakps)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs Alya](https://github-readme-stats.vercel.app/api/top-langs/?username=alyakps&layout=compact&)](https://github.com/anuraghazra/github-readme-stats) |
